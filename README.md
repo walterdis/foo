@@ -1,5 +1,5 @@
-Segunda versão de Foo
-FOOC FOOC
-----------------------
-O FOOC novo testando.
-FOOC linha nova
+FOOC
+Zerei o fooc para testar o diff 3
+
+
+Pulei 2 linhas no fooc
